@@ -78,3 +78,4 @@ agenthub/agents/youtube/db
 
 # Mobile development
 android-sdk/ backend/model/deepfake_detector.h5
+backend/model/deepfake_detector.h5
